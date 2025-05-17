@@ -31,6 +31,7 @@ This project is part of my application for the **Code2Career** training program 
 
 ![Screenshot](screenshot.png)
 
+
 ## Contact
 
 If you'd like to connect or know more about me, feel free to visit my [GitHub profile](https://github.com/AmjadKhateeb).
