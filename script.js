@@ -36,3 +36,6 @@ searchInput.addEventListener('input', () => {
 
 
 fetchQuotes();
+
+
+//Amjad
