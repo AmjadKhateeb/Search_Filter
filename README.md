@@ -28,8 +28,7 @@ It fetches quotes from an online API and lets you search through them by typing 
 This project is part of my application for the **Code2Career** training program by Gaza Sky Geeks.
 
 ## Screenshot
-
-![screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 
 ## Contact
