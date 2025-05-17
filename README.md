@@ -29,7 +29,7 @@ This project is part of my application for the **Code2Career** training program 
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 
 ## Contact
